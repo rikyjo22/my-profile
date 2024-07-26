@@ -1,0 +1,19 @@
+body {
+  height: 2000px;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem; /* supaya saat link di klik, tidak terlalu ke atas*/
+}
+.pesan {
+  background-color: #e2edff;
+  border-radius: 30px;
+}
